@@ -1,2 +1,2 @@
 # Profile-page
-An example of a profile page
+An example of a portfolio page
